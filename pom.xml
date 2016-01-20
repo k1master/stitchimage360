@@ -1,0 +1,43 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cse145.app</groupId>
+  <artifactId>stitchimage360</artifactId>
+  <version>1</version>
+  
+  <repositories>
+      
+  <repository>
+   <id>xuggle repo</id>
+   <url>http://xuggle.googlecode.com/svn/trunk/repo/share/java/</url>
+  </repository>
+ </repositories>
+ 
+ <dependencies>
+  <dependency>
+   <groupId>xuggle</groupId>
+   <artifactId>xuggle-xuggler</artifactId>
+   <version>5.4</version>
+  </dependency>
+  
+ <dependency>
+  <groupId>org.boofcv</groupId>
+  <artifactId>boofcv</artifactId>
+  <version>0.13</version>
+  </dependency>
+  
+ 
+   <dependency>
+   <groupId>javax.media</groupId>
+   <artifactId>jmf</artifactId>
+   <version>2.1.1e</version>
+	</dependency>
+ 
+   <dependency>
+    <groupId>uk.co.caprica</groupId>
+    <artifactId>vlcj</artifactId>
+    <version>2.3.0</version>
+	</dependency>
+
+ </dependencies>
+
+</project>

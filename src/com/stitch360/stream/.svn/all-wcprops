@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/59/trunk/src/com/stitch360/stream
+END
+MyIMediaListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/46/trunk/src/com/stitch360/stream/MyIMediaListener.java
+END
+StreamRTSP.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/59/trunk/src/com/stitch360/stream/StreamRTSP.java
+END
+StitchThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/59/trunk/src/com/stitch360/stream/StitchThread.java
+END
+ReadStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/29/trunk/src/com/stitch360/stream/ReadStream.java
+END
+VidDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/47/trunk/src/com/stitch360/stream/VidDecoder.java
+END
+RecodeThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/58/trunk/src/com/stitch360/stream/RecodeThread.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/54/trunk/src/com/stitch360/stream/Tuple.java
+END
+XuggleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/src/com/stitch360/stream/XuggleTest.java
+END
+Sync.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/55/trunk/src/com/stitch360/stream/Sync.java
+END
